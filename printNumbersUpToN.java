@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class  printNumbersUpToN  {
+public class printNumbersUpToN {
 
     public static void printNumbersUpToN(int n) {
 
