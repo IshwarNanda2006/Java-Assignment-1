@@ -1,4 +1,4 @@
-public class printSkippingMultiplesOfThree{
+public class Week3_L2_P3_SkipMultiplesOfThree{
 
     public static void printSkippingMultiplesOfThree() {
 

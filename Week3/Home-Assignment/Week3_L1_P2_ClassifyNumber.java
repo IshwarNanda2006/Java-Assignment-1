@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class classifyNumber {
+public class Week3_L1_P2_ClassifyNumber {
 
     public static void classifyNumber(int number) {
 

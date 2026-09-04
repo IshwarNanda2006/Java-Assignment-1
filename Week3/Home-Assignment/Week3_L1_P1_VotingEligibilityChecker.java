@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tut1level1q1 {
+public class Week3_L1_P1_VotingEligibilityChecker {
 
     public static void checkVotingEligibility(int age) {
 

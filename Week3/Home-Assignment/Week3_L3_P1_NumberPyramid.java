@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Week3_L3_P1_NumberPyramid {
 
     public static void printNumberPyramid(int n) {
 
